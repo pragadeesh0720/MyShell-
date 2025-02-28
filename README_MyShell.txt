@@ -1,6 +1,4 @@
 # MyShell - A Custom Shell in C
-
-![MyShell](https://img.shields.io/badge/C-Shell-blue.svg)  
 A lightweight, minimalistic shell (`MyShell`) written in C, supporting **process control, command execution, built-in commands (`cd`, `exit`)**, and more. 🚀  
 
 ---
@@ -46,8 +44,8 @@ MyShell/
 ## 🛠️ Installation & Usage
 ### 📌 Build MyShell
 ```sh
-git clone https://github.com/your-username/MyShell.git
-cd MyShell
+git clone https://github.com/pragadeesh0720/MyShell-.git
+cd MyShell-
 make
 ```
 ### 📌 Run MyShell
